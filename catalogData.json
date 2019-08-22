@@ -13,5 +13,10 @@
     "id_product": 3,
     "product_name": "Mango  People  T-shirt",
     "price": "$52.00"
+  },
+  {
+    "id_product": 4,
+    "product_name": "Mango  People  T-shirt",
+    "price": "$52.00"
   }
 ]
