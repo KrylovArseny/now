@@ -1,6 +1,7 @@
 [
   {
     "id_product": 1,
+    "img": "https://placehold.it/260x280",
     "product_name": "Mango  People  T-shirt",
     "price": "$52.00"
   },
