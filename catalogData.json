@@ -19,55 +19,31 @@
   },
   {
     "id_product": 4,
-    "img": "https://ibb.co/xsvzfPV",
+    "img": "https://upload.akusherstvo.ru/images/1693204.png",
     "product_name": "Mango  People  T-shirt",
     "price": "$52.00"
   },
     {
     "id_product": 5,
-     "img": "https://ibb.co/W6VKwD6",
+     "img": "https://upload.akusherstvo.ru/images/1693205.jpg",
     "product_name": "Mango  People  T-shirt",
     "price": "$52.00"
   },
     {
     "id_product": 6,
-     "img": "https://ibb.co/4sXTx21",
+     "img": "https://upload.akusherstvo.ru/images/1693206.jpg",
     "product_name": "Mango  People  T-shirt",
     "price": "$52.00"
   },
     {
     "id_product": 7,
-    "img": "https://ibb.co/xsvzfPV",
+    "img": "https://upload.akusherstvo.ru/images/1693204.png",
     "product_name": "Mango  People  T-shirt",
     "price": "$52.00"
   },
   {
     "id_product": 8,
-    "img": "https://ibb.co/W6VKwD6",
-    "product_name": "Mango  People  T-shirt",
-    "price": "$52.00"
-  },
-  {
-    "id_product": 9,
-    "img": "https://ibb.co/4sXTx21",
-    "product_name": "Mango  People  T-shirt",
-    "price": "$52.00"
-  },
-  {
-    "id_product": 10,
-    "img": "https://ibb.co/xsvzfPV",
-    "product_name": "Mango  People  T-shirt",
-    "price": "$52.00"
-  },
-    {
-    "id_product": 11,
-     "img": "https://ibb.co/W6VKwD6",
-    "product_name": "Mango  People  T-shirt",
-    "price": "$52.00"
-  },
-    {
-    "id_product": 12,
-     "img": "https://ibb.co/4sXTx21",
+    "img": "https://upload.akusherstvo.ru/images/1693205.jpg",
     "product_name": "Mango  People  T-shirt",
     "price": "$52.00"
   }
