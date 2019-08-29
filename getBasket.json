@@ -4,15 +4,17 @@
   "contents": [
     {
       "id_product": 123,
+      "img": "https://upload.akusherstvo.ru/images/1693205.jpg",
       "product_name": "Ноутбук",
       "price": 45600,
       "quantity": 2
     },
     {
       "id_product": 456,
+      "img": "https://upload.akusherstvo.ru/images/1693205.jpg",
       "product_name": "Мышка",
       "price": 1000,
-      "quantity": 1
+      "quantity": 2
     }
   ]
 }
