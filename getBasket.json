@@ -3,18 +3,60 @@
   "countGoods": 2,
   "contents": [
     {
-      "id_product": 123,
-      "img": "https://upload.akusherstvo.ru/images/1693205.jpg",
-      "product_name": "Ноутбук",
-      "price": 45600,
+    "id_product": 1,
+    "img": "https://upload.akusherstvo.ru/images/1693204.png",
+    "product_name": "Mango  People  T-shirt",
+    "price": "$52.00",
       "quantity": 2
     },
     {
-      "id_product": 456,
-      "img": "https://upload.akusherstvo.ru/images/1693205.jpg",
-      "product_name": "Мышка",
-      "price": 1000,
-      "quantity": 2
-    }
+    "id_product": 2,
+    "img": "https://upload.akusherstvo.ru/images/1693205.jpg",
+    "product_name": "Mango  People  T-shirt",
+    "price": "$52.00",
+      "quantity": 1
+    },
+     {
+    "id_product": 3,
+    "img": "https://upload.akusherstvo.ru/images/1693206.jpg",
+    "product_name": "Mango  People  T-shirt",
+    "price": "$52.00",
+        "quantity": 2
+  },
+  {
+    "id_product": 4,
+    "img": "https://upload.akusherstvo.ru/images/1693204.png",
+    "product_name": "Mango  People  T-shirt",
+    "price": "$52.00",
+     "quantity": 0
+  },
+    {
+    "id_product": 5,
+     "img": "https://upload.akusherstvo.ru/images/1693205.jpg",
+    "product_name": "Mango  People  T-shirt",
+    "price": "$52.00",
+       "quantity": 0
+  },
+    {
+    "id_product": 6,
+     "img": "https://upload.akusherstvo.ru/images/1693206.jpg",
+    "product_name": "Mango  People  T-shirt",
+    "price": "$52.00",
+       "quantity": 0
+  },
+    {
+    "id_product": 7,
+    "img": "https://upload.akusherstvo.ru/images/1693204.png",
+    "product_name": "Mango  People  T-shirt",
+    "price": "$52.00",
+       "quantity": 0
+  },
+  {
+    "id_product": 8,
+    "img": "https://upload.akusherstvo.ru/images/1693205.jpg",
+    "product_name": "Mango  People  T-shirt",
+    "price": "$52.00",
+     "quantity": 0
+  }
   ]
 }
