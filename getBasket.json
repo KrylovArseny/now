@@ -15,27 +15,6 @@
     "product_name": "Mango  People  T-shirt",
     "price": "$52.00",
       "quantity": 1
-    },
-     {
-    "id_product": 3,
-    "img": "https://upload.akusherstvo.ru/images/1693206.jpg",
-    "product_name": "Mango  People  T-shirt",
-    "price": "$52.00",
-        "quantity": 2
-  },
-  {
-    "id_product": 4,
-    "img": "https://upload.akusherstvo.ru/images/1693204.png",
-    "product_name": "Mango  People  T-shirt",
-    "price": "$52.00",
-     "quantity": 0
-  },
-    {
-    "id_product": 5,
-     "img": "https://upload.akusherstvo.ru/images/1693205.jpg",
-    "product_name": "Mango  People  T-shirt",
-    "price": "$52.00",
-       "quantity": 0
-  }
+    }
   ]
 }
